@@ -1,2 +1,4 @@
 # Criminal-Identification
 AI-Based Suspicious Object Placement Detection and  Missing Object Detection System
+
+This project proposes an AI-driven smart surveillance system that automatically detects suspicious object placement behaviors and real-time missing object incidents using deep learning. The system analyzes CCTV footage to identify abnormal placement actions such as hidden placement, quick drop-and-leave, and placement in unusual areas, while continuously monitoring display environments to detect the sudden disappearance of valuable objects. Multi-frame analysis ensures reliable detection in crowded scenes by handling occlusions effectively, and a user-friendly dashboard provides real-time alerts with visual evidence for rapid response. Designed to integrate with existing CCTV infrastructure, the system offers a scalable, affordable, and proactive solution for enhancing security in public and commercial spaces.
